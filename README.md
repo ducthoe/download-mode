@@ -2,20 +2,12 @@
 
 A very simple Python script to boot Samsung devices into **Download Mode** on ZC builds and future builds.
 
-## Note: This is NOT working on One UI 9 at the moment, if you want to update to it, I strongly suggest you to not update!!
+## Note: Seems to be working on One UI 9 (excluding BZC5).
 
 ## Requirements
 
 - Python 3
 - pySerial
-
-## Install pySerial
-
-Install the required package with pip:
-
-```
-pip install pyserial
-```
 
 ## Usage
 
