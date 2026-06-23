@@ -1,8 +1,6 @@
 # Samsung Download Mode Script
 
-A very simple Python script to boot Samsung devices into **Download Mode** on ZC builds and future builds.
-
-## Note: Seems to be working on One UI 9 (excluding BZC5).
+A very simple Python script to boot Samsung devices into **Download Mode** on newer UI 8.0+ higher builds.
 
 ## Requirements
 
